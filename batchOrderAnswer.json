@@ -1,0 +1,24 @@
+{
+    "Trade":
+    {
+        "customerId": "BusinessCustomerAAA",
+        "trades": [
+            {
+            "orderId": "a",
+            "executionprice": "40.0",
+            "position": {
+                "ISIN": "AT0000652011",
+                "quant": "60"
+            }
+        },
+            {
+            "orderId": "b",
+            "executionprice": "42.0",
+            "position": {
+                "ISIN": "AT0000652011",
+                "quant": "50"
+            }
+        }
+        ]
+    }
+}

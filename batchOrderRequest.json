@@ -1,7 +1,7 @@
 {
     "Batch":
     {
-        "customerId": "",
+        "customerId": "BusinessCustomerAAA",
         "orders": [
             {
             "orderId": "a",
