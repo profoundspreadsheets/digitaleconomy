@@ -1,0 +1,16 @@
+{
+    "QuoteRequest":
+    {
+        "customerId": "BusinessCustomerAAA",
+        "products": [{
+            "ISIN": "AT0000652011"
+        },
+        {
+            "ISIN": "AT0000831706"
+        },
+        {
+            "ISIN": "AT0000937503"
+        }
+    ]
+    }
+}

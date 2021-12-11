@@ -1,0 +1,22 @@
+{
+    "Quotes":
+    {
+        "customerId": "BusinessCustomerAAA",
+        "products": [{
+            "ISIN": "AT0000652011",
+            "Bid": 39.80,
+            "Ask": 40.12
+        },
+        {
+            "ISIN": "AT0000831706",
+            "Bid": 32.94,
+            "Ask": 33.42
+        },
+        {
+            "ISIN": "AT0000937503",
+            "Bid": 29.12,
+            "Ask": 31.10
+        }
+    ]
+    }
+}
