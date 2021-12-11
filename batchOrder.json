@@ -1,0 +1,48 @@
+{
+    "Batch":
+    {
+        "customerId": "",
+        "orders": [
+            {
+            "orderId": "a",
+            "timestamp": "2021-12-11 17:36:33",
+            "side": "B",
+            "limitprice": "40.0",
+            "position": {
+                "ISIN": "AT0000652011",
+                "quant": "100"
+            }
+        },
+            {
+            "orderId": "b",
+            "timestamp": "2021-12-11 17:36:35",
+            "side": "B",
+            "limitprice": "42.0",
+            "position": {
+                "ISIN": "AT0000652011",
+                "quant": "50"
+            }
+        },
+        {
+            "orderId": "c",
+            "timestamp": "2021-12-11 17:36:40",
+            "side": "B",
+            "limitprice": "43.18",
+            "position": {
+                "ISIN": "AT0000652011",
+                "quant": "80"
+            }
+        },
+        {
+            "orderId": "d",
+            "timestamp": "2021-12-11 17:37:10",
+            "side": "B",
+            "limitprice": "39.84",
+            "position": {
+                "ISIN": "AT0000652011",
+                "quant": "200"
+            }
+        }
+        ]
+    }
+}
